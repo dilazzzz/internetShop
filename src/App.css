@@ -1,7 +1,11 @@
 .App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
   width: 1024px;
-  margin: auto;
+  height: 100vh;
+  margin: auto auto;
 }
 
 li {
